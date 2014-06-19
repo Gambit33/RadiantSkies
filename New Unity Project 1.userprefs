@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="\\NASANIMAZIONE\Videogames\Sviluppatori\Radiant Skies\Target.cs">
+    <Files>
+      <File FileName="Assets\UEnemyController.cs" Line="24" Column="64" />
+      <File FileName="Assets\UPlayerController.cs" Line="17" Column="25" />
+      <File FileName="..\SpaceCruiser\Assets\Game_classes\SCPlayerController.cs" Line="157" Column="36" />
+      <File FileName="Assets\UMissile.cs" Line="1" Column="1" />
+      <File FileName="Assets\UShot.cs" Line="16" Column="26" />
+      <File FileName="\\NASANIMAZIONE\Videogames\Sviluppatori\Radiant Skies\Target.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
